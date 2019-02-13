@@ -1,9 +1,5 @@
-# Favorite Things
-
-These are a few of my favorite things:
-
-- Raindrops on roses
-- Whiskers on cute animals
-- Bright copper kettles
-- Warm woolen mittens
-- Not editing directly on GitHub
+Hi, how is it going?
+I want to go back to bed
+and for A5 to be cancelled
+Maybe more snow?
+Sincerely, Kendall
