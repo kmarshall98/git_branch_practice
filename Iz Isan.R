@@ -1,1 +1,2 @@
-print("Hi, I'm Isan Cho, whats ur name?")
+print("Hi, I'm Isan Cho, I got a midterm n quiz on Friday :(")
+
