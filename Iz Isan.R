@@ -1,1 +1,1 @@
-print("Hi, I'm Isan Cho, whats ur name?")
+print("Hi, Im Kendall")
